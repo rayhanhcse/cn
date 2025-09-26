@@ -1,4 +1,4 @@
-##Computer Networking 
+Computer Networking 
 #Using Cisco Packet Tracer-
 Build Network Topologies – Star, Bus, Mesh, Hybrid
 
